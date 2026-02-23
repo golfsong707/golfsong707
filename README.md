@@ -1,6 +1,6 @@
 # 👋 Anungar Godfrey John
 
-**Data Analyst | Data Engineer | Data scientist **
+*Data Analyst | Data Engineer | Data scientist *
 
 Welcome to my GitHub.
 
