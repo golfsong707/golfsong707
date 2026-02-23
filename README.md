@@ -1,106 +1,121 @@
-# 👋 Hi, I'm Anungar Godfrey John
+# 👋 Anungar Godfrey John
 
-**Senior Data Engineer | Data Scientist | Investment Analyst | IT & Network Consultant**
+**Data Analyst | Data Engineer | Data scientist **
 
-Welcome to my GitHub profile.
+Welcome to my GitHub.
 
-I design, build, and optimize data-driven systems that transform raw data into actionable intelligence. My work sits at the intersection of **data engineering, analytics, infrastructure, and applied AI**, with practical applications in business, finance, and enterprise systems.
+I am a data professional with a background in engineering systems, data analysis, analytics and Modelling. My journey into data was driven by a simple question:
 
----
+> How do we turn raw numbers into decisions that create measurable value?
 
-## 🔍 About Me
-
-I am a results-oriented technology professional with experience in:
-
-* Data Engineering & ETL Pipeline Development
-* Data Science & Predictive Analytics
-* Investment & Financial Analysis
-* Network Infrastructure & Surveillance Systems
-* Python-Based Automation
-* AI-Driven Workflow Design
-
-My focus is not just writing code — it is building **scalable, production-ready systems** that solve real business problems.
+Today, I build analytical systems that transform operational, financial, and business data into structured insights.
 
 ---
 
-## 🛠️ Technical Stack
+## 🧠 Analytical Focus
 
-### Programming & Data
+I am particularly interested in:
+
+* 📊 **Business Intelligence & Reporting** — executive dashboards, KPI tracking, performance analytics
+* 💰 **Financial & Investment Analytics** — market analysis, valuation metrics, trend forecasting
+* ⚙️ **Operations & Process Analytics** — workflow optimization, performance bottlenecks
+* 📈 **Data-Driven Decision Systems** — automation and predictive modeling
+* 🌍 **Public & Economic Data Analysis** — macro trends and policy-driven data
+
+I enjoy solving problems where structured thinking, clean modeling, and clarity of insight matter more than complexity.
+
+---
+
+## 🛠️ Toolkit
+
+I focus on practical, industry-relevant tools.
+
+### 🔹 Languages
 
 * Python
 * SQL
-* Pandas, NumPy
-* Apache Spark
-* Data Modeling & ETL Design
+* R
 
-### Infrastructure & Systems
+### 🔹 Visualization
 
-* Linux Networking
-* Enterprise Network Architecture
-* Firewall & VPN Configuration
-* IP Surveillance Architecture
-* System Automation
+* Tableau
+* Power BI
+* Matplotlib
+* Seaborn
 
-### Tools & Platforms
+### 🔹 Data Tools
+
+* Excel
+* Google Sheets
+* pandas
+* NumPy
+* Jupyter Notebook
+
+### 🔹 Databases
+
+* PostgreSQL
+* MySQL
+* BigQuery
+* SQLite
+
+### 🔹 Other Tools
 
 * Git & GitHub
-* Jupyter Notebook
-* Apache Ecosystem
-* REST API Integrations
-* Workflow Automation Systems
+* Google Colab
+* Kaggle
 
 ---
 
-## 📊 What You’ll Find Here
+## 🚀 What I’m Currently Working On
 
-This GitHub contains projects related to:
+* Building structured data analyst portfolio projects
+* Completing milestone-based analytical tasks (EdMotion Pod)
+* Designing clean, reproducible case-study notebooks
+* Improving advanced SQL and data modeling workflows
+* Applying analytics to financial market data
 
-* 📈 Data Analysis & Visualization
-* 🔄 ETL & Data Pipelines
-* 🤖 AI-Augmented Systems
-* 🧠 Machine Learning Experiments
-* 🌐 Infrastructure & Automation Scripts
-* 📘 Structured Learning Projects (Teaching & Documentation)
+My goal is to develop systems that are:
 
-Each repository is structured to be:
-
-* Clear
+* Transparent
 * Reproducible
-* Educational
-* Production-aware
+* Business-oriented
+* Decision-focused
 
 ---
 
-## 🎯 Current Focus
+## 📂 What You’ll Find Here
 
-* Building intelligent data workflows
-* Designing AI-assisted accounting & automation systems
-* Advanced Python for data engineering
-* Applied analytics in financial markets
-* Scalable system architecture
+This GitHub contains:
 
----
+* End-to-end data analysis projects
+* SQL case studies
+* Business intelligence dashboards
+* Financial data explorations
+* Learning logs and structured experiments
 
-## 💡 Philosophy
+Each project emphasizes:
 
-> Data is only valuable when it is structured, understood, and operationalized.
-
-I believe in:
-
-* Clean architecture
-* Measurable outcomes
-* Practical implementation
-* Continuous learning
+* Problem framing
+* Clean data transformation
+* Clear visualization
+* Actionable conclusions
 
 ---
 
-## 🌐 Connect With Me
+## 📬 How to Reach Me
 
-* Instagram: [https://www.instagram.com/golfsong707/](https://www.instagram.com/golfsong707/)
-* X (Twitter): [https://x.com/707_golfsong](https://x.com/707_golfsong)
-* LinkedIn: [https://www.linkedin.com/in/aunungar/](https://www.linkedin.com/in/aunungar/)
+* 📧 Email: *anungar@gmail.com*
+* 🔗 LinkedIn: [https://www.linkedin.com/in/aunungar/](https://www.linkedin.com/in/aunungar/)
+* 📸 Instagram: [https://www.instagram.com/golfsong707/](https://www.instagram.com/golfsong707/)
+* 🐦 X (Twitter): [https://x.com/707_golfsong](https://x.com/707_golfsong)
+
+---
+
+## 📌 Professional Objective
+
+To build data systems that improve decision quality, reduce uncertainty, and drive measurable business impact.
 
 ---
 
 **Anungar Godfrey John**
-Building systems that turn complexity into clarity.
+Turning data into structured insight and strategic advantage.
