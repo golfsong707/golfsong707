@@ -26,43 +26,27 @@ I enjoy solving problems where structured thinking, clean modeling, and clarity 
 
 ---
 
-## 🛠️ Toolkit
+## 🛠️ Tech Stack
 
-I focus on practical, industry-relevant tools.
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### 🔹 Languages
+### Visualization
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-* Python
-* SQL
-* R
+### Data Tools
+Excel • Google Sheets • pandas • NumPy • Jupyter Notebook
 
-### 🔹 Visualization
+### Databases
+PostgreSQL • MySQL • BigQuery • SQLite
 
-* Tableau
-* Power BI
-* Matplotlib
-* Seaborn
-
-### 🔹 Data Tools
-
-* Excel
-* Google Sheets
-* pandas
-* NumPy
-* Jupyter Notebook
-
-### 🔹 Databases
-
-* PostgreSQL
-* MySQL
-* BigQuery
-* SQLite
-
-### 🔹 Other Tools
-
-* Git & GitHub
-* Google Colab
-* Kaggle
+### Other Tools
+Git • GitHub • Google Colab • Kaggle
 
 ---
 
