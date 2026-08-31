@@ -19,6 +19,7 @@ Today, I build analytical systems that transform operational, financial, and bus
 | 🏗️ [**MarketScope — Equity Data Pipeline & Warehouse**](projects/data-engineering/README.md) | End-to-end ETL with a star-schema warehouse, data-quality auditing and dbt-style SQL models | Python · pandas · SQLite · SQL |
 | 🔮 [**Next-Day Stock Price Direction**](projects/data-science/README.md) | ML modelling with leakage-free time splits, a proper baseline and transparent evaluation | Python · scikit-learn · pandas |
 | 📈 [**Market Performance & Portfolio Analytics**](projects/data-analysis/README.md) | BI analytics + an interactive dashboard (KPIs, correlations, movers) | Python · pandas · Streamlit |
+| 🛠️ [**NLNG Predictive Maintenance — Stage 1**](projects/predictive-maintenance/README.md) | Raw-data audit and EDA for equipment failure/RUL prediction, plus a print-ready A4 code appendix | Python · pandas · ReportLab |
 
 The three projects share a common synthetic **MarketScope** equity universe
 (24 tickers across 6 sectors), so the data engineering warehouse feeds the
@@ -69,10 +70,11 @@ Git · GitHub · Google Colab · Kaggle
 ```
 golfsong707/
 ├── projects/
-│   ├── data-engineering/   # ETL pipeline + star-schema warehouse + SQL models
-│   ├── data-science/       # ML model for next-day price direction
-│   └── data-analysis/      # BI analytics + Streamlit dashboard
-└── README.md               # you are here
+│   ├── data-engineering/        # ETL pipeline + star-schema warehouse + SQL models
+│   ├── data-science/            # ML model for next-day price direction
+│   ├── data-analysis/           # BI analytics + Streamlit dashboard
+│   └── predictive-maintenance/  # Equipment failure / RUL audit + A4 code appendix
+└── README.md                    # you are here
 ```
 
 Each project is self-contained: it has its own `README.md`, `requirements.txt`,

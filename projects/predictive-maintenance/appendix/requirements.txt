@@ -1,0 +1,6 @@
+# Tooling for the print-ready code listings (not needed to run the pipeline).
+#   make_listing_pdf.py -> reportlab
+#   check_listing.py    -> pymupdf
+#   verify_equivalence.py -> pandas, numpy, matplotlib
+reportlab>=4.0
+pymupdf>=1.24
